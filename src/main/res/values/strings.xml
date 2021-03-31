@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Movenet</string>
+    <string name="register_text">Register</string>
+    <string name="login_text">Login</string>
+    <string name="username">Username</string>
+    <string name="number">Cellphone Number</string>
+    <string name="numberError">Error: invalid cellphone number</string>
+    <string name="email">Email</string>
+    <string name="pwd">Password</string>
+    <string name="pwdError">Error: password too short. Must be at least 8 characters</string>
+    <string name="confirm">Confirm Password</string>
+    <string name="title_activity_test">Map</string>
+    <string name="login">Already have an account? Click here to login</string>
+    <string name="register">Don\'t have an account? Click here to register</string>
+</resources>
